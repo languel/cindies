@@ -1,2 +1,2 @@
 # cindies
-cindyjs ideas
+cindyjs ideas and dev
